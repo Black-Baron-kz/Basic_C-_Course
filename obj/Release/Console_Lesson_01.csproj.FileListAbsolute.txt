@@ -1,0 +1,7 @@
+C:\Visual_Studio\с#\Console-project\Console_Lesson_01\bin\Release\Console_Lesson_01.exe.config
+C:\Visual_Studio\с#\Console-project\Console_Lesson_01\bin\Release\Console_Lesson_01.exe
+C:\Visual_Studio\с#\Console-project\Console_Lesson_01\bin\Release\Console_Lesson_01.pdb
+C:\Visual_Studio\с#\Console-project\Console_Lesson_01\obj\Release\Console_Lesson_01.csproj.AssemblyReference.cache
+C:\Visual_Studio\с#\Console-project\Console_Lesson_01\obj\Release\Console_Lesson_01.csproj.CoreCompileInputs.cache
+C:\Visual_Studio\с#\Console-project\Console_Lesson_01\obj\Release\Console_Lesson_01.exe
+C:\Visual_Studio\с#\Console-project\Console_Lesson_01\obj\Release\Console_Lesson_01.pdb
